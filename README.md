@@ -1,21 +1,40 @@
-# AI-Job-Search-Resume-Refiner-Personalized-Career-Matching-Tool
-Riley Ruggiero
+**Riley Ruggiero**
 
-Project name
+**Project Title**
+AI Meal Planner & Smart Grocery Assistant
 
-AI Job Search & Resume Refiner: Personalized Career Matching Tool
+**Project Description**
+This project is an AI-powered meal planning tool that helps users create personalized meal plans based on their preferences, dietary goals, and budget. Users will input information such as dietary preferences (e.g., high-protein, vegetarian), number of days, and budget constraints. The system will generate a structured meal plan including breakfast, lunch, and dinner options.
 
-Description
+The application will integrate real recipe data using the Spoonacular API, which provides ingredients, nutrition information, and meal suggestions. The retrieved data will then be processed by the OpenAI API to generate a personalized and optimized meal plan. The AI will also create a consolidated grocery list and explain how the plan fits the user’s goals (e.g., staying within budget or meeting protein targets).
 
-This assistant will help improve resumes and help users decide what career they want based on their interests and goals. Users will be able to upload a resume or paste text, along with a desired job title, industry, or job description. The system will analyze this information to generate improved resume bullet points, highlight relevant skills, and provide suggestions to better align with target roles. In addition, the tool will include a job-matching feature that suggests relevant job titles, generates example job descriptions, and explains how well the user’s profile fits those roles.
+Key features include:
 
-Resources to use
-OpenAI API for text generation, resume analysis, and job matching
-Streamlit for building the user interface
-Python libraries such as pandas and python
-Course lab materials (chatbot logic, file uploads, response chaining)
-User-provided data (resumes, job descriptions, career interests) 
+* Personalized meal plan generation based on user input
+* Integration of real recipe and nutrition data from an external API
+* AI-generated grocery shopping list
+* Budget-aware meal suggestions
+* Simple and interactive web interface
 
-Deliverables
-The final project will include a working web application where users can upload resumes and interact with the AI. A GitHub repository will contain all source code and documentation. A demo will showcase resume refinement, job matching, cover letter generation, and interview preparation features.
+This project is valuable because it simplifies daily meal planning, saves time, and helps users make better dietary decisions using AI.
+
+**Resources to Use**
+
+* OpenAI API for text generation and meal plan optimization
+* Spoonacular API for recipes, ingredients, and nutrition data
+* Python for backend logic
+* Streamlit for building the user interface
+* Course lab materials (API integration, chatbot logic, structured outputs)
+* User input data (preferences, dietary goals, budget)
+
+**Deliverables**
+
+* A working Streamlit web application where users can input preferences and receive a full meal plan
+* Functional integration of at least one external API (Spoonacular) and the OpenAI API
+* Features including meal generation, grocery list creation, and explanations
+* A GitHub repository containing all source code and documentation
+* A final demo showcasing the application’s functionality and real-time API responses
+
+**GitHub Repository**
+A GitHub repository will be created and shared with the instructor. It will include all project files, a README with project details, setup instructions, and ongoing updates throughout development.
 
